@@ -1,2 +1,0 @@
-# 从git中删除一个文件，但保留该文件。
-git rm --cached file
